@@ -6,3 +6,8 @@ Created on Wed Sep 19 00:44:01 2018
 """
 
 print("hello git")
+
+a=3
+b=5
+
+print("a",a)
